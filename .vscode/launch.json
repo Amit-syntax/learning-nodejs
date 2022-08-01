@@ -20,7 +20,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/core-js-concepts/hoisting.js"
+            "program": "${workspaceFolder}"
         }
     ]
 }
